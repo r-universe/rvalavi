@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "blockCV"]
 	path = blockCV
 	url = https://github.com/rvalavi/blockcv
-	shallow = true
-	registered = true
 [submodule "disdat"]
 	path = disdat
 	url = https://github.com/cran/disdat
-	shallow = true
-	registered = true
