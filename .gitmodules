@@ -5,6 +5,9 @@
 [submodule "blockCV"]
 	path = blockCV
 	url = https://github.com/rvalavi/blockcv
+[submodule "curves"]
+	path = curves
+	url = https://github.com/rvalavi/curves
 [submodule "disdat"]
 	path = disdat
 	url = https://github.com/rvalavi/disdat
